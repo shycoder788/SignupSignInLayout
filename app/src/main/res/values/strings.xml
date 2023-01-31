@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginNew</string>
+    <string name="or_sign_with">Or sign in with</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="with_millions_of_users_all_over_the_world_we_gives_you_the_ability_to_connect_with_people_no_matter_where_you_are">With millions of users all over the world, we gives you the ability to connect with people no matter where you are.</string>
+    <string name="find_new_nFriends_nearby">Find new\nFriends nearby</string>
+</resources>
